@@ -1,6 +1,6 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
+Simple reverse proxy to bypass CORS, used by [FlickRealm](https://flickrealm.xyz).
 Read the docs at https://docs.movie-web.app/proxy/introduction
 
 ---
