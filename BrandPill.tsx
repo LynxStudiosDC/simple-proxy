@@ -20,7 +20,7 @@ export function BrandPill(props: {
           : "",
       )}
     >
-      <Icon className="text-xl" icon={Icons.FlickRealm} />
+      <Icon className="text-xl" icon={Icons.FLICK_REALM} />
       <span
         className={[
           "font-semibold text-white",
